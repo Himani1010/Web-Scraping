@@ -1,0 +1,267 @@
+[
+    {
+        "movie_name": "Toy Story 4",
+        "url": "https://www.rottentomatoes.com/m/toy_story_4",
+        "Rating": "G",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure,",
+            "Comedy,",
+            "Fantasy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "JoshCooley"
+        ],
+        "Producer": [
+            "Mark",
+            "Nielsen,",
+            "Jonas",
+            "Rivera,",
+            "Galyn",
+            "Susman"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "Spider-Man: Into the Spider-Verse",
+        "url": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse",
+        "Rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure,",
+            "Action,",
+            "Comedy,",
+            "Fantasy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "BobPersichetti",
+            "PeterRamsey",
+            "RodneyRothman"
+        ],
+        "Producer": [
+            "Avi",
+            "Arad,",
+            "Amy",
+            "Pascal,",
+            "Phil",
+            "Lord,",
+            "Chris",
+            "Miller,",
+            "Christina",
+            "Steinberg"
+        ],
+        "Runtime": 117
+    },
+    {
+        "movie_name": "Inside Out",
+        "url": "https://www.rottentomatoes.com/m/inside_out_2015",
+        "Rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Animation,",
+            "Fantasy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter"
+        ],
+        "Producer": [
+            "Jonas",
+            "Rivera"
+        ],
+        "Runtime": 95
+    },
+    {
+        "movie_name": "Coco",
+        "url": "https://www.rottentomatoes.com/m/coco_2017",
+        "Rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure,",
+            "Comedy,",
+            "Music"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "LeeUnkrich"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson"
+        ],
+        "Runtime": 109
+    },
+    {
+        "movie_name": "Snow White and the Seven Dwarfs",
+        "url": "https://www.rottentomatoes.com/m/1048445-snow_white_and_the_seven_dwarfs",
+        "Rating": "G",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "DavidHand"
+        ],
+        "Producer": [
+            "Walt",
+            "Disney"
+        ],
+        "Runtime": 80
+    },
+    {
+        "movie_name": "Incredibles 2",
+        "url": "https://www.rottentomatoes.com/m/incredibles_2",
+        "Rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure,",
+            "Action,",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "Producer": [
+            "John",
+            "Walker,",
+            "Nicole",
+            "Paradis",
+            "Grindle"
+        ],
+        "Runtime": 118
+    },
+    {
+        "movie_name": "Zootopia",
+        "url": "https://www.rottentomatoes.com/m/zootopia",
+        "Rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "ByronHoward",
+            "RichMoore"
+        ],
+        "Producer": [
+            "Clark",
+            "Spencer"
+        ],
+        "Runtime": 108
+    },
+    {
+        "movie_name": "Paddington 2",
+        "url": "https://www.rottentomatoes.com/m/paddington_2",
+        "Rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Comedy"
+        ],
+        "Language": [
+            "Kingdom)"
+        ],
+        "director": [
+            "PaulKing"
+        ],
+        "Producer": [
+            "David",
+            "Heyman"
+        ],
+        "Runtime": 103
+    },
+    {
+        "movie_name": "Up",
+        "url": "https://www.rottentomatoes.com/m/up",
+        "Rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Adventure,",
+            "Comedy,",
+            "Animation"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter",
+            "BobPeterson"
+        ],
+        "Producer": [
+            "Jonas",
+            "Rivera"
+        ],
+        "Runtime": 89
+    },
+    {
+        "movie_name": "Toy Story 3",
+        "url": "https://www.rottentomatoes.com/m/toy_story_3",
+        "Rating": "G",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure,",
+            "Comedy,",
+            "Fantasy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "director": [
+            "LeeUnkrich"
+        ],
+        "Producer": [
+            "Darla",
+            "K.",
+            "Anderson"
+        ],
+        "Runtime": 102
+    }
+]
